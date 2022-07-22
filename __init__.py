@@ -1,7 +1,7 @@
 bl_info ={
     "name": "Ice Cube Beta",
     "author": "DarhtLilo",
-    "version": (1, 4, 2),
+    "version": (1, 4, 3),
     "blender": (3, 0, 0),
     "location": "View3D > Tool",
     "description": "Beta Version of Ice Cube",
